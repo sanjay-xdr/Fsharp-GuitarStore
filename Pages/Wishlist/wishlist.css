@@ -1,0 +1,33 @@
+@import url(https://fsharpui.netlify.app/main.css);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --white-color: #fff;
+  --grey-color: #808080;
+}
+.navigation {
+  margin: 0rem;
+  width: 100%;
+  background-color: var(--white-color);
+}
+
+.icon-heart,
+.icon-cart {
+  font-size: 3rem;
+}
+
+.wishlist-item {
+  flex: 50;
+  margin: 1rem;
+}
+
+.icon-color {
+  color: #ff0000;
+}
+.icon-color:hover {
+  color: #dd2626;
+}
