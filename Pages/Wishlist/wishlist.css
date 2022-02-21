@@ -26,8 +26,8 @@
 }
 
 .icon-color {
-  color: red;
+  color: #ff0000;
 }
 .icon-color:hover {
-  color: rgb(221, 38, 38);
+  color: #dd2626;
 }
