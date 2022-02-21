@@ -6,14 +6,14 @@
 }
 
 :root{
-  --white-color:#fff;
+  --nav-color:#fff;
   --grey-color:#808080;
 
 }
 .navigation {
   margin: 0rem;
   width: 100%;
-  background-color: var(--white-color);
+  background-color: var(--nav-color);
 }
 
 .icon-heart,
