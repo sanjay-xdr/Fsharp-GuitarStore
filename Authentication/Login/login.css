@@ -36,5 +36,9 @@
       font-size: 2rem;
   }
 
+.input[type=submit]{
+    color: #fff;
+}
+
 
  
