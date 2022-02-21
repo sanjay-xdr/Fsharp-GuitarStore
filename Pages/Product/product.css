@@ -35,5 +35,5 @@ input[type=checkbox],input[type=radio]{
     width: 4rem;
 }
 .btn-shopping-cart:hover{
-    color: black;
+    color: #000;
 }
